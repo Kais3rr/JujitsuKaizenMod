@@ -1,0 +1,11 @@
+{
+    "name": "JujitsuKaizenMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Kais3rr/JujitsuKaizenMod",
+    "description": "Adds Jujutsu Kaisen themed cards to ROUNDS",
+    "dependencies": [
+        "BepInEx-BepInExPack_ROUNDS-5.4.1901",
+        "willis81808-UnboundLib-3.2.14",
+        "Pykess-ModdingUtils-0.4.8"
+    ]
+}
